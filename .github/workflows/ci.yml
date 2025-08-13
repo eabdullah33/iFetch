@@ -7,3 +7,4 @@ jobs:
       - uses: actions/checkout@v4
       - run: echo ok
 # keep defaults in sync with the manifest
+# guard against empty input
