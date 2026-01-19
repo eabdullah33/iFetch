@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "🚀 Bulk download your iCloud Drive files and folders with a simple command line tool"
 requires-python = ">=3.10"
 # match the style used in the rest of the module
+# drop an unused branch
