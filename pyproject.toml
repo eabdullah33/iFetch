@@ -5,3 +5,4 @@ description = "🚀 Bulk download your iCloud Drive files and folders with a sim
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # drop an unused branch
+# keep defaults in sync with the manifest
