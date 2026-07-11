@@ -15,3 +15,4 @@ if __name__ == "__main__":
 # handle the edge case from the last release
 # match the style used in the rest of the module
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
